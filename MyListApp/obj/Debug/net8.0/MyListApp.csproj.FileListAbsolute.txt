@@ -1,0 +1,14 @@
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/bin/Debug/net8.0/MyListApp
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/bin/Debug/net8.0/MyListApp.deps.json
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/bin/Debug/net8.0/MyListApp.runtimeconfig.json
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/bin/Debug/net8.0/MyListApp.dll
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/bin/Debug/net8.0/MyListApp.pdb
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.AssemblyInfoInputs.cache
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.AssemblyInfo.cs
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.csproj.CoreCompileInputs.cache
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.dll
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/refint/MyListApp.dll
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.pdb
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/MyListApp.genruntimeconfig.cache
+/Users/iliyasshakhabdin/Desktop/RiderProjects/MyListApp/MyListApp/obj/Debug/net8.0/ref/MyListApp.dll
